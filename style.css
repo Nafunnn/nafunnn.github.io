@@ -1,0 +1,177 @@
+* {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans',sans-serif;
+}
+
+.menudanlogo {
+    width: 1100px;
+    margin: auto;
+    position: relative;
+}
+
+.logo a {
+    font-size: 50px;
+    font-weight: 800;
+    float: left;
+    font-family: courier;
+    color: #364f6b;
+}
+
+.menu {
+    float: right;
+}
+
+nav {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    line-height: 80px;
+    position: sticky;
+    position: -webkit-sticky; 
+    top: 0;
+    background-color: whitesmoke;
+    z-index: 1;
+    border-bottom:1px solid #364f6b;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+div section img {
+    width: 25%;
+}
+section{
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+}
+.kolom {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.kolom .deskripsi {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'comic sans ms';
+    color: #364f6b;
+}
+h2 {
+    font-family: 'comic sans ms';
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 20px;
+    color: #364f6b;
+    width: 100%;
+    line-height: 50px;
+}
+.body .div.wrapper .section .div.kolom .img {
+    width: 25%;
+}
+div .foto3 img {
+    width: 25%;
+}
+p.macam.program {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lucida sans';
+}
+div .foto2 img {
+    width: 30%;
+}
+a.tbl-ggl {
+    background: #3f72af;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: bold;
+}
+a.tbl-ggl:hover {
+    background: #FC5185;
+    text-decoration: underline;
+}
+a.tbl-ig {
+    background: palevioletred;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 5px 10px 5px 10px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: bold;
+}
+a.tbl-ig:hover {
+    background: lightblue;
+    text-decoration: underline;
+}
+a.tbl-fb {
+    background: palevioletred;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 5px 10px 5px 10px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: bold;
+}
+a.tbl-fb:hover {
+    background: lightblue;
+    text-decoration: underline;
+}
+a.tbl-sklh {
+    background: palevioletred;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 5px 10px 5px 10px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: bold;
+}
+a.tbl-sklh:hover {
+    background: lightblue;
+    text-decoration: underline;
+}
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body {
+    background-image: url(https://img.freepik.com/free-vector/ethnic-floral-seamless-pattern_1159-3574.jpg?size=338&ext=jpg);
+}
+a.tbl-ig2 {
+    background: palevioletred;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 5px 10px 5px 10px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: bold;
+}
+a.tbl-ig2:hover {
+    background: lightblue;
+    text-decoration: underline;
+}
